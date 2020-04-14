@@ -43,7 +43,7 @@ Parameters:
     Default: alymaquiling
     Description: GitHub username or organization
     MinLength: 3
-    MaxLength: 100
+    MaxLength: 101
     ConstraintDescription: You must enter a GitHub username or organization
 
   CodeBuildDockerImage:
